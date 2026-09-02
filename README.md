@@ -11,7 +11,7 @@
 
   <p align="center">
     <a href="https://github.com/nabil12ful"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-    <a href="https://laravel.com"><img src="https://img.shields.io/badge/Laravel_v13+-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"></a>
+    <a href="https://laravel.com"><img src="https://img.shields.io/badge/Laravel_v11+-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"></a>
     <a href="https://php.net"><img src="https://img.shields.io/badge/PHP_8.3+-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"></a>
     <a href="https://postgresql.org"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"></a>
   </p>
